@@ -1153,7 +1153,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4057ff;
+  background: #ff1ad5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2557,20 +2557,18 @@ ul.breadcrumb li + li:last-child {
   background: initial;
   box-shadow: initial;
   padding: initial;
-  opacity: 0.9;
+  opacity: 1;
 }
 .post-block {
   background: #fff;
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   padding: 40px;
-  opacity: 0.9;
 }
 .post-block + .post-block {
   border-radius: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   margin-top: 12px;
-  opacity: 0.9;
 }
 .comments {
   background: #fff;
@@ -2579,7 +2577,6 @@ ul.breadcrumb li + li:last-child {
   margin: auto;
   margin-top: 12px;
   padding: 40px;
-  opacity: 0.9;
 }
 .tabs-comment {
   margin-top: 1em;
@@ -2597,7 +2594,6 @@ ul.breadcrumb li + li:last-child {
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   margin: 12px 0 0;
   padding: 10px 0 10px;
-  opacity: 0.9;
 }
 .pagination .prev,
 .pagination .next,
