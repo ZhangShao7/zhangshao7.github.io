@@ -1,22 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo博客 Next更换修改主题样式 不生效的解决</title>
+    <url>/2020/02/16/Next%E4%B8%BB%E9%A2%98%E4%B8%8D%E7%94%9F%E6%95%88/</url>
+    <content><![CDATA[<h3 id="申明"><a href="#申明" class="headerlink" title="申明"></a>申明</h3><blockquote>
+<p>此为copy<a href="https://www.tuziang.com/combat/904.html" target="_blank" rel="noopener">兔子昂</a>的技术解决帖<br>瞎搞一下午不如<a href="https://www.google.com/" target="_blank" rel="noopener">google</a>一下<code>==</code></p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h3><p>在对下面的Next主题样式修改时候，博客站点可能无法正常生效。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Schemes</span><br><span class="line">scheme: Muse</span><br><span class="line">#scheme: Mist</span><br><span class="line">#scheme: Pisces</span><br><span class="line">#scheme: Gemini</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>解决方法：</p>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>1.在git bash中进入hexo目录，执行 </p>
+</blockquote>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure>
+<p> 后 再执行<br> <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></p>
+<blockquote>
+<blockquote>
+<p>2.浏览器清除缓存</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>3.刷新页面即可生效</p>
+</blockquote>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>copy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>评论测试</title>
     <url>/2020/02/16/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h2 id="评论测试"><a href="#评论测试" class="headerlink" title="评论测试"></a>评论测试</h2><p>欢迎留言</p>
 <a id="more"></a>
 
-<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><p>此评论框架需要科学上网，可能以后会换…</p>
+<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><blockquote>
+<p>此评论框架需要科学上网，可能以后会换…<br>帖一个免费500M工具<a href="https://github.com/getlantern/lantern" target="_blank" rel="noopener">蓝灯</a>三平台通用</p>
+</blockquote>
 ]]></content>
       <tags>
         <tag>test</tag>
       </tags>
   </entry>
   <entry>
-    <title>测试</title>
-    <url>/2020/02/16/%E6%B5%8B%E8%AF%95test/</url>
+    <title>Markdown基础操作</title>
+    <url>/2020/02/16/Markdown%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</url>
     <content><![CDATA[<h2 id="申明"><a href="#申明" class="headerlink" title="申明"></a>申明</h2><blockquote>
-<p>此为copy的一篇markdown介绍</p>
+<p>此为copy的一篇markdown基本操作介绍<br>编辑器推荐<a href="https://blog.csdn.net/davidhzq/article/details/100815332" target="_blank" rel="noopener">好用的md介绍</a></p>
 </blockquote>
 <h3 id="简单语法"><a href="#简单语法" class="headerlink" title="简单语法"></a>简单语法</h3><blockquote>
 <p>在使用Markdown之前，你可能需要先了解一下关于markdown的简单语法。</p>
@@ -198,33 +235,42 @@
 </tbody></table>
 ]]></content>
       <tags>
-        <tag>test</tag>
+        <tag>copy</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/02/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Hello-zs7"><a href="#Hello-zs7" class="headerlink" title="Hello zs7"></a>Hello zs7</h2><blockquote>
-<p>hexo框架初始文件（<del>准备删除</del>）</p>
+    <title>Hexo缩写操作</title>
+    <url>/2020/02/15/Hexo%E7%BC%A9%E5%86%99%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote>
+<p>hexo框架初始操作，添加缩写和文件夹指定</p>
 </blockquote>
 <a id="more"></a>
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="进入指定文件夹"><a href="#进入指定文件夹" class="headerlink" title="进入指定文件夹"></a>进入指定文件夹</h3><p>举例进入<code>G:/blog/233</code></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd g&#x2F;blog&#x2F;233</span><br></pre></td></tr></table></figure>
+<p>回退两层至<code>G:</code></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd ..&#x2F;..</span><br></pre></td></tr></table></figure>
+
+<h3 id="新建一篇文章"><a href="#新建一篇文章" class="headerlink" title="新建一篇文章"></a>新建一篇文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
+<h3 id="运行本地服务"><a href="#运行本地服务" class="headerlink" title="运行本地服务"></a>运行本地服务</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>=</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<h3 id="生成本地文件"><a href="#生成本地文件" class="headerlink" title="生成本地文件"></a>生成本地文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>=</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="上传至服务器"><a href="#上传至服务器" class="headerlink" title="上传至服务器"></a>上传至服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>=</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       <tags>
-        <tag>test</tag>
+        <tag>copy</tag>
       </tags>
   </entry>
 </search>
