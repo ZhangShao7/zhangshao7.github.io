@@ -32,17 +32,19 @@
 </blockquote>
 ]]></content>
       <tags>
-        <tag>copy</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
     <title>评论测试</title>
     <url>/2020/02/16/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h2 id="评论测试"><a href="#评论测试" class="headerlink" title="评论测试"></a>评论测试</h2><p>欢迎留言</p>
+    <content><![CDATA[<h2 id="评论测试"><a href="#评论测试" class="headerlink" title="评论测试"></a>评论测试</h2><blockquote>
+<p>欢迎留言</p>
+</blockquote>
 <a id="more"></a>
 
 <h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><blockquote>
-<p>此评论框架需要科学上网，可能以后会换…<br>帖一个免费500M工具<a href="https://github.com/getlantern/lantern" target="_blank" rel="noopener">蓝灯</a>三平台通用</p>
+<p>此评论框架需要科学上网<br>帖一个免费500M工具<a href="https://github.com/getlantern/lantern" target="_blank" rel="noopener">蓝灯</a>三平台通用<br>评论模块现在只能在Chrome框架的浏览器下启动，（考虑更换中）</p>
 </blockquote>
 ]]></content>
       <tags>
@@ -235,7 +237,7 @@
 </tbody></table>
 ]]></content>
       <tags>
-        <tag>copy</tag>
+        <tag>md</tag>
       </tags>
   </entry>
   <entry>
@@ -270,7 +272,7 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       <tags>
-        <tag>copy</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
