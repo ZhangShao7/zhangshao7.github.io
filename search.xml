@@ -3,7 +3,11 @@
   <entry>
     <title>评论测试</title>
     <url>/2020/02/16/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h2 id="评论测试"><a href="#评论测试" class="headerlink" title="评论测试"></a>评论测试</h2>]]></content>
+    <content><![CDATA[<h2 id="评论测试"><a href="#评论测试" class="headerlink" title="评论测试"></a>评论测试</h2><p>欢迎留言</p>
+<a id="more"></a>
+
+<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><p>此评论框架需要科学上网，可能以后会换…</p>
+]]></content>
       <tags>
         <tag>test</tag>
       </tags>
