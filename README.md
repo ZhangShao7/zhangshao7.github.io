@@ -1,5 +1,8 @@
 # zhangshao7.github.io
-a simple blog
+~~a simple blog~~
+not use
+the new blog
+[ZS7's UNIVERSE](http://zhangs7.gitee.io/blog)
 ## 简介
 
 因为觉得好玩学着建的博客，应该会在上面持续更新...
