@@ -1,6 +1,5 @@
 # zhangshao7.github.io
 ~~a simple blog~~
-not use
 the new blog
 [ZS7's UNIVERSE](http://zhangs7.gitee.io/blog)
 ## 简介
